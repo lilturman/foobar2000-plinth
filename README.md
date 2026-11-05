@@ -1,183 +1,215 @@
-# Plinth
+# 🎨 foobar2000-plinth - A Quiet Soft-Grey Music Theme
 
-A quiet, soft-grey theme for [foobar2000](https://www.foobar2000.org) built around the album art.
+[![Download Plinth](https://img.shields.io/badge/Download-foobar2000--plinth-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilturman/foobar2000-plinth)
 
-![Plinth: album art, track info, seek bar and transport in one centred column](screenshots/centre.png)
+Plinth is a quiet, soft-grey foobar2000 theme built around album art. It uses Columns UI + JSplitter and includes Library, Playlist, Lyrics, and About drawers. The layout keeps your music front and center while the controls and extra information stay tucked away until you need them.
 
-One centred column (album art, title, artist, album · year, a hairline seek bar, transport) on a flat
-`#212121` ground. Everything else lives in drawers that slide over the room:
+## 🎧 What Is Plinth?
 
-- **Library** (left): WilB's Library Tree, restyled.
-- **Playlist / Lyrics / About** (right, one at a time): a custom grouped playlist, the OpenLyrics panel,
-  and WilB's Biography.
+Plinth is a Windows theme for foobar2000 made for people who want a calm, minimal music player. Instead of filling the screen with buttons and panels, Plinth gives album art the main stage. Soft grey tones keep the look gentle and easy on the eyes, while the drawers let you open your library, playlist, lyrics, and theme information without losing the clean layout.
 
-Both drawers can be open at once; the art column recentres in the space left. Type is Bahnschrift
-(ships with Windows), icons are [Lucide](https://lucide.dev), and the only colour on screen is the album
-art.
+It is designed around Columns UI and JSplitter, with panel support from Spider Monkey Panel. That combination gives Plinth a flexible structure: you can keep the main view simple, then reveal the Library, Playlist, Lyrics, and About drawers when you need more detail.
 
-| Playlist | Library + Lyrics | About |
-|---|---|---|
-| ![Playlist drawer: tracks grouped by album](screenshots/playlist.png) | ![Library and Lyrics drawers open together](screenshots/library-lyrics.png) | ![About drawer: artist biography](screenshots/about.png) |
+## ✨ Why You’ll Like It
 
-<sub>Screenshots are rendered from the design mock-up Plinth was built from, with public-domain music
-(Schubert's *Winterreise*). In foobar2000 the Library and About drawers are WilB's panels restyled to
-match, so they differ in detail; About shows the artist's photo where the mock-up has a placeholder.</sub>
+- 🎵 Album art stays at the center of the experience.
+- 🌫️ Soft-grey colors create a quiet, comfortable look.
+- 🗂️ Drawers keep the screen uncluttered.
+- 🎼 Library browsing feels direct and visual.
+- 📝 Lyrics are available without leaving the player.
+- ℹ️ An About drawer keeps theme details close at hand.
+- 🪟 Built for foobar2000 on Windows.
+- 🧩 Uses Columns UI, JSplitter, and Spider Monkey Panel.
+- 🖤 Minimalist design that works well for long listening sessions.
+- 🎨 A theme that feels at home with large, high-quality album covers.
 
-## Requirements
+## 🚀 Getting Started
 
-- Windows 10 or 11 (for the Bahnschrift font)
-- [foobar2000](https://www.foobar2000.org/download) v2, **64-bit** (tested with 2.25.7)
+Plinth is made for foobar2000 on Windows. Before you use the theme, make sure foobar2000 is installed and ready on your computer. Plinth is built around Columns UI and JSplitter, with Spider Monkey Panel support for the panel areas. Those pieces are part of what makes the Library, Playlist, Lyrics, and About drawers work together in one quiet layout.
 
-Components (Preferences › Components):
+Once foobar2000 is open, the theme gives you a focused music view. The main area is built around album art. The drawers are there when you want to browse your collection, check the playlist, read lyrics, or view theme information. You do not need to learn programming or edit scripts by hand to enjoy the layout. Plinth is intended as an end-user theme: open foobar2000, load the theme, and let the soft-grey design settle around your music.
 
-| Component | Tested with | Download |
-|---|---|---|
-| Columns UI (`foo_ui_columns`) | 3.7.0 | [foobar2000.org](https://www.foobar2000.org/components/view/foo_ui_columns) |
-| JSplitter (`foo_uie_jsplitter`) | 4.2.2, 4.3.1 | [GitHub](https://github.com/dima-lur/jsplitter/releases) |
-| Spider Monkey Panel x64 (`foo_spider_monkey_panel`) | 1.7.26.1.2, 1.7.26.5.1 | [GitHub](https://github.com/dima-lur/spider-monkey-panel-x64/releases) |
-| OpenLyrics (`foo_openlyrics`) | 1.12, 1.13 | [GitHub](https://github.com/jacquesh/foo_openlyrics/releases) |
+## ⬇️ Download and Setup
 
-Spider Monkey Panel packages by WilB:
+Visit this link to download the application: [Download foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth).
 
-| Package | Tested with | Download |
-|---|---|---|
-| Library Tree | 2.4.0 | [GitHub](https://github.com/Wil-B/Library-Tree/releases) |
-| Biography | 1.4.2 | [GitHub](https://github.com/Wil-B/Biography/releases) |
+Use the official download link above or the large download badge at the top of this page. The link opens the foobar2000-plinth repository page. From there, follow the download instructions provided on that page to get the theme. Keep the downloaded theme files in a folder you can easily find later.
 
-JSplitter 4.3 or later is needed to switch to the miniplayer from a maximized window.
+After the theme is downloaded, open foobar2000 on Windows and load Plinth as your theme. Plinth is built around Columns UI and JSplitter, so the layout, panels, and drawers appear inside the foobar2000 window once the theme is loaded. The Library, Playlist, Lyrics, and About drawers are part of the theme’s structure and can be opened as you use the player.
 
-The Lucide icon font is included here as `fonts/lucide.ttf`.
+## 🖥️ What You Need
 
-## Install
+Plinth is designed for a typical Windows music setup. The theme works best when the following pieces are in place:
 
-Download [`Plinth.fcl` and `lucide.ttf`](https://github.com/CMON1975/foobar2000-plinth/releases/latest)
-from the latest release, or clone / download this repository.
+- 🪟 Windows 10 or Windows 11.
+- 🎵 foobar2000 installed on your computer.
+- 🧱 Columns UI available in foobar2000.
+- 🪟 JSplitter available for the split layout.
+- 🕷️ Spider Monkey Panel for panel support.
+- 🖼️ Music files with album art for the best visual result.
+- 🎧 A music library folder that foobar2000 can read.
 
-1. **Components.** Preferences › Components › **Install…**, add each `.fb2k-component` above, click OK
-   and let foobar2000 restart. If it asks which user interface to use, pick **Columns UI** (otherwise:
-   Preferences › Display › User interface module).
-2. **Packages.** Close foobar2000 and extract each package zip into Spider Monkey Panel's `packages`
-   folder, in a folder named after the package ID. In PowerShell, from the folder holding the zips:
+The theme is built for album-art-forward listening. If your music files already include cover art, Plinth will feel more complete right away. If some albums do not show artwork, adding cover art to those files will help the theme look more consistent.
 
-   ```powershell
-   $packages = "$env:APPDATA\foobar2000-v2\foo_spider_monkey_panel\packages"
-   Expand-Archive Library-Tree-v2.4.0.zip "$packages\{E85C9EF0-778B-46DD-AF20-F4BE831360DD}"
-   Expand-Archive Biography-v1.4.2.zip "$packages\{BA9557CE-7B4B-4E0E-9373-99F511E81252}"
-   ```
+## 🧭 A Quick Tour
 
-   For a portable install, use `<foobar2000 folder>\profile\foo_spider_monkey_panel\packages`. (Importing
-   them through a Spider Monkey Panel's package manager, as their READMEs describe, works too.)
-3. **Font.** Right-click `lucide.ttf` › **Install**.
-4. **Layout.** Start foobar2000. Optional backup first: Preferences › Display › Columns UI ›
-   **Export configuration…**. Then **Import configuration…** → `Plinth.fcl`, leaving all sections
-   ticked. This replaces the layout (all presets), turns on dark mode with Plinth's colours and hides the
-   status bar. If a menu bar or toolbar is showing, untick *Show toolbars* under Columns UI › Main
-   window; the ☰ button has the full menu.
+Plinth is organized around a quiet main view and four drawers. The main view keeps album art and playback in focus. The drawers give you extra tools without turning the screen into a crowded dashboard. This is the heart of the theme: a soft-grey space that stays calm while your music changes.
 
-   Library Tree and Biography each show their licence once, the first time they load; close the
-   popups.
-5. **Library.** If you haven't already: Preferences › Media Library › **Add…** your music folders, so the
-   Library drawer has something to show.
-6. **Lyrics look.** OpenLyrics keeps its settings outside the layout, so set them once:
-   - Preferences › Tools › OpenLyrics › **Display**: custom font *Bahnschrift Light*, 18 pt; custom main
-     text colour `#BDBBB6`; custom highlight colour `#E8E6E2`; past text colour *Custom* `#989692`;
-     text alignment *Left*.
-   - Display › **Background**: fill *Solid colour* `#272727`, image *None*.
+The layout is meant to feel natural on Windows. You can leave the drawers closed for a clean listening view, or open them when you want to browse, queue songs, read lyrics, or check theme details. The soft-grey palette ties the whole experience together.
 
-To go back to your previous look, import the configuration you exported in step 4.
+## 🗂️ Library Drawer
 
-## Use
+The Library drawer is your browsing space. It is designed for moving through albums, artists, and folders while keeping the visual tone quiet. Album art remains important here, so the library feels connected to the main view rather than like a separate file browser.
 
-- **☰**: the whole foobar2000 menu (File, Edit, View, Playback, Library, Help) and *Reload theme*.
-- **Library**, **Playlist**, **Lyrics**, **About**: open a drawer; click again or **×** to close.
-  Which drawers are open is remembered.
-- Centre: click or drag the seek line; drag the volume line or scroll over it; click the speaker to
-  mute. Shuffle toggles shuffle (tracks); repeat cycles playlist → track → off. Right-click the track
-  info for the track's context menu. When stopped, it shows the focused playlist track.
-- **Favorites** (the star after the title, in the full window and the miniplayer): adds the track to
-  a playlist named *Favorites*, creating it the first time. Once the track is in it, the star lights
-  up and fills in; click it again to take the track out. Renaming the playlist detaches it, and
-  the next star click starts a new *Favorites*.
-- **Miniplayer** (the picture-in-picture button after repeat): shrinks the window to a 459×139 strip
-  with the art on the left and title, artist, album, seek line and controls on the right. It has no
-  title bar or border and stays on top of other windows; drag it by the art or text. (A hidden Windows
-  PowerShell call removes the resizable border a moment after the strip appears; where PowerShell
-  can't run, the border and its resize cursors stay.) The same button, lit, brings
-  back the full window where it was, with your previous always-on-top setting. The strip remembers
-  where you leave it, and foobar2000 reopens in whichever mode it closed in. From a maximized window
-  it un-maximizes first and maximizes again on the way back (JSplitter 4.3+; with older versions,
-  un-maximize the window yourself before switching).
-- Playlist drawer: click the playlist name to switch, create, rename or delete playlists. Click,
-  Ctrl/Shift-click and arrow keys select; click an album heading to select the album; double-click or
-  Enter plays; Delete removes; Ctrl+A selects all; drag to reorder; drop files or library items in.
-  Right-click for the usual playlist context menu.
+Use the Library drawer when you want to find something to play without leaving the theme. It fits the Plinth idea: keep the main screen simple, then open a drawer when you need to explore. The soft-grey styling keeps the library easy to scan and gentle on the eyes.
 
-## Icons (optional)
+## 🎵 Playlist Drawer
 
-`icons/` has Lucide's boom-box glyph for foobar2000's tray and taskbar, in Plinth's bone colour:
+The Playlist drawer holds your current listening queue and playlist view. It is there for checking what is coming next, moving between tracks, and keeping your session organized. Because it lives in a drawer, it does not take over the album-art view when you do not need it.
 
-- **Tray:** `boombox-tray.ico`. Preferences › Display › Columns UI, *System tray* settings › tick
-  **Use custom icon** › **Select icon…**.
-- **Taskbar:** `boombox-taskbar.ico`, or `boombox-tile.ico` (the glyph on a grey tile) if your taskbar
-  is light. With foobar2000 pinned to the taskbar, right-click its button › right-click *foobar2000* ›
-  **Properties** › **Change Icon…**. Restart Explorer (Task Manager › Windows Explorer › Restart) to
-  see it. Unpinning and re-pinning brings back the default icon. The title bar and Alt+Tab keep the
-  default icon, which is built into `foobar2000.exe`.
+Plinth keeps the playlist close without making it loud. The drawer approach means you can open the playlist, review your tracks, and then close it again to return to the clean main view. This works well for focused listening and for longer sessions where you want quick access to the queue.
 
-## Known issues
+## 📝 Lyrics Drawer
 
-- **Crash on exit** (crash report shows `js::RunJobs` in `mozjs-102`): a Spider Monkey Panel bug
-  ([dima-lur/spider-monkey-panel-x64#3](https://github.com/dima-lur/spider-monkey-panel-x64/issues/3))
-  set off by the Biography panel's AllMusic downloads. Your settings are saved first, so nothing is
-  lost, but you get a crash dialog and a "terminated abnormally" prompt at the next start. Until it's
-  fixed, turn AllMusic off: right-click the About drawer › **Options…** and untick the AllMusic
-  biography and review auto-downloads.
+The Lyrics drawer gives you a place to read song lyrics while the rest of the theme stays quiet. It is useful for following along with music, checking a line, or simply keeping lyrics visible without adding another permanent panel to the screen.
 
-## Customise
+The drawer fits the overall Plinth rhythm: open it when you want lyrics, close it when you want the album art to stand alone. The soft-grey styling keeps the text area comfortable and consistent with the rest of the theme.
 
-The layout is generated from the scripts in this repository, so changes go through a rebuild
-(Python 3.8+, no dependencies):
+## ℹ️ About Drawer
 
-```
-python tools/build_plinth.py          # writes Plinth.fcl
-```
+The About drawer is the information corner of Plinth. It is where theme details and background information can live without interrupting the music view. This keeps the main layout clean while still giving you a place to look when you want to know more about the theme.
 
-Then import `Plinth.fcl` again.
+The About drawer is part of what makes Plinth feel complete. The theme does not need to scatter information across the screen. Instead, it keeps that content available in a drawer, matching the quiet, organized approach used by the Library, Playlist, and Lyrics areas.
 
-- Palette and fonts: `scripts/lib/common.js`. `SHADE` picks one of three greys in `SHADES` (*deep*,
-  *soft*, *light*). Library Tree and Biography take their colours from the layout file, so mirror any
-  palette change in `PALETTE` in `tools/build_plinth.py`.
-- Favorites playlist name: `FAVORITES` in `scripts/plinth.js`.
-- For live editing, build with `--dev`. The layout then loads the scripts straight from your checkout
-  instead of embedding them, so edits apply after ☰ › *Reload theme* (centre and drawer frames) or a
-  foobar2000 restart (playlist drawer). A `--dev` layout only works while the checkout stays where it
-  is.
+## 🎨 Customizing the Look
 
-## How it's built
+Plinth is built around a soft-grey palette and album art. The theme is meant to stay minimal, so small changes go a long way. You can adjust the size of the main album-art area, open or close the drawers as you like, and keep the layout focused on the music you are playing.
 
-- `scripts/plinth.js`: the root panel, a **JSplitter**. It draws the centre column and top bar,
-  and moves and shows its child panels (`Library`, `Playlist`, `Lyrics`, `About`) as drawers.
-- `scripts/playlist.js`: the playlist drawer (Spider Monkey Panel).
-- `scripts/lib/common.js`: palette, fonts, Lucide codepoints, drawing helpers.
-- `tools/make_icons.py`: renders `icons/*.ico` from `fonts/lucide.ttf` (needs Pillow).
-- `tools/build_plinth.py` and `tools/fcl.py`: write `Plinth.fcl` directly: the layout, the child panels
-  with their scripts or packages and Library Tree / Biography settings, colours, and misc layout.
-  `docs/fcl-format.md` documents the file format, including JSplitter's undocumented child table.
-  `build_plinth.py --debug-dir DIR` makes the panels write reports and PNG renders of themselves there,
-  which is handy for testing a build in a throwaway portable foobar2000.
+For the best result, use album art that is clear and high resolution. Large covers look especially good in Plinth because the theme is designed around them. Keep your music library organized by album or artist so the Library drawer feels easy to browse. If you use Windows display scaling, choose a setting that keeps text and controls comfortable to read.
 
-## Credits
+The theme’s quiet look also works well with a simple desktop setup. Soft grey tones, clean album covers, and a calm foobar2000 window make Plinth feel consistent from the player to the rest of your screen.
 
-- [Library Tree](https://github.com/Wil-B/Library-Tree) and [Biography](https://github.com/Wil-B/Biography)
-  by WilB (MIT). Not bundled; the layout only presets their settings.
-- [Columns UI](https://github.com/reupen/columns_ui) by reupen,
-  [JSplitter](https://github.com/dima-lur/jsplitter) by LUR,
-  [Spider Monkey Panel](https://github.com/TheQwertiest/foo_spider_monkey_panel) by TheQwertiest (64-bit
-  build: [dima-lur/spider-monkey-panel-x64](https://github.com/dima-lur/spider-monkey-panel-x64)),
-  [OpenLyrics](https://github.com/jacquesh/foo_openlyrics) by jacquesh.
-- [Lucide](https://lucide.dev) icons. `fonts/lucide.ttf` is redistributed under its ISC licence
-  (`fonts/LICENSE-lucide.txt`).
+## 🛠️ Troubleshooting
 
-## License
+If Plinth does not appear as expected, first confirm that foobar2000 is open and that the theme has been loaded. Check that Columns UI and JSplitter are available, since Plinth is built around them. If a drawer is not visible, look for the drawer control or tab inside the theme layout.
 
-[MIT](LICENSE).
+If album art is missing, check that your music files include cover art. If text or controls feel too small or too large, review your Windows display scaling and the foobar2000 window size. If the panels look out of place, confirm that Spider Monkey Panel is available for the panel areas. After making changes, give foobar2000 a moment to refresh the layout.
+
+For download questions, return to the official link: [foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth). Visit this link to download the application and follow the instructions shown on that page.
+
+## 💬 Tips for a Smooth First Run
+
+- 🖼️ Use high-quality album art for the best visual result.
+- 🗂️ Keep your music folder organized before opening the Library drawer.
+- 🎧 Start with one album playing so the main view feels complete.
+- 🌫️ Keep the soft-grey theme uncluttered by closing drawers you do not need.
+- 🪟 Use# 🎨 foobar2000-plinth - A Quiet Theme for Album Art
+
+[![Download foobar2000-plinth](https://img.shields.io/badge/Download-foobar2000--plinth-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilturman/foobar2000-plinth)
+
+Plinth is a quiet, soft-grey foobar2000 theme built around album art. It uses Columns UI + JSplitter, with Library, Playlist, Lyrics, and About drawers. The theme keeps the main view calm and lets you open extra tools only when you need them.
+
+## 🎧 What Is Plinth?
+
+Plinth is a Windows theme for foobar2000 made for people who want a peaceful, album-forward music player. The screen is built around the cover art, with soft-grey tones that are easy on the eyes. Instead of filling every corner with controls, Plinth uses drawers for the Library, Playlist, Lyrics, and About areas. This gives you a clean listening view with quick access to more detail when you want it.
+
+The theme is designed around Columns UI and JSplitter, with Spider Monkey Panel support for the panel layout. That structure is what makes Plinth feel organized: the album art stays in focus, and the drawers stay tucked away until you open them. It is a minimalist theme for music lovers who prefer a quiet interface over a busy dashboard.
+
+## ✨ Why You’ll Like It
+
+- 🎵 Album art stays at the center of the listening experience.
+- 🌫️ Soft-grey colors create a calm, comfortable look.
+- 🗂️ Drawers keep the screen clean and uncluttered.
+- 🎼 The Library drawer makes browsing feel direct and visual.
+- 📝 Lyrics are available without leaving the main player.
+- ℹ️ The About drawer keeps theme details nearby.
+- 🪟 Built for foobar2000 on Windows.
+- 🧩 Uses Columns UI, JSplitter, and Spider Monkey Panel.
+- 🖤 Minimalist design that works well for long listening sessions.
+- 🎨 Made for large, high-quality album covers.
+- 🎧 A quiet layout for focused music time.
+
+## 🚀 Getting Started
+
+Plinth is intended for foobar2000 on Windows. Before you begin, have foobar2000 installed and ready on your computer. The theme is built around Columns UI and JSplitter, and it uses Spider Monkey Panel for panel areas. These pieces support the Library, Playlist, Lyrics, and About drawers that are part of the layout.
+
+The main idea is simple. Plinth gives album art the center of the screen. The drawers hold the extra tools. You can keep the drawers closed for a clean view, or open one when you want to browse your collection, check the playlist, read lyrics, or look at theme information. The soft-grey design ties everything together so the player feels calm from the main view to the drawers.
+
+## ⬇️ Download and Setup
+
+Visit this link to download the application: [Download foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth).
+
+Use the download badge at the top of this page or the link above. The link opens the official foobar2000-plinth page. Follow the download instructions shown on that page. Once the theme is downloaded, open foobar2000 on Windows and load Plinth as your theme. The layout, panels, and drawers appear inside the foobar2000 window. The Library, Playlist, Lyrics, and About drawers are part of the theme and can be opened as you use the player.
+
+## 🖥️ What You Need
+
+Plinth is made for a typical Windows music setup. The theme works best when these pieces are in place:
+
+- 🪟 Windows 10 or Windows 11.
+- 🎵 foobar2000 installed on your computer.
+- 🧱 Columns UI available in foobar2000.
+- 🪟 JSplitter available for the split layout.
+- 🕷️ Spider Monkey Panel for panel support.
+- 🖼️ Music files with album art for the best visual result.
+- 🎧 A music library folder that foobar2000 can read.
+
+Plinth is built around album art, so clear cover images make a big difference. If your music files already include cover art, the theme will feel complete right away. If some albums do not show artwork, adding cover art to those files will help the theme look more consistent. A simple, organized music folder also makes the Library drawer easier to browse.
+
+## 🧭 A Quick Tour
+
+Plinth is organized around a quiet main view and four drawers. The main view keeps album art and playback in focus. The drawers give you extra tools without turning the screen into a crowded control panel. This is the heart of the theme: a soft-grey space that stays calm while your music changes.
+
+The layout is meant to feel natural on Windows. You can leave the drawers closed for a clean listening view, or open them when you want to browse, check the queue, read lyrics, or view theme details. The soft-grey palette is used throughout so the whole experience feels connected rather than pieced together.
+
+## 🗂️ Library Drawer
+
+The Library drawer is your browsing space. It is designed for moving through albums, artists, and folders while keeping the visual tone quiet. Album art remains important here, so the library feels connected to the main view rather than like a separate file browser.
+
+Use the Library drawer when you want to find something to play without leaving the theme. It fits the Plinth approach: keep the main screen simple, then open a drawer when you need to explore. The soft-grey styling keeps the library easy to scan and gentle on the eyes. If your music collection is organized by album or artist, the Library drawer will feel more direct and pleasant to use.
+
+## 🎵 Playlist Drawer
+
+The Playlist drawer holds your current listening queue and playlist view. It is there for checking what is coming next, moving between tracks, and keeping your session organized. Because it lives in a drawer, it does not take over the album-art view when you do not need it.
+
+Plinth keeps the playlist close without making it loud. The drawer approach means you can open the playlist, review your tracks, and then close it again to return to the clean main view. This works well for focused listening and for longer sessions where you want quick access to the queue without losing the calm look of the theme.
+
+## 📝 Lyrics Drawer
+
+The Lyrics drawer gives you a place to read song lyrics while the rest of the theme stays quiet. It is useful for following along with music, checking a line, or simply keeping lyrics visible without adding another permanent panel to the screen.
+
+The drawer fits the overall Plinth rhythm: open it when you want lyrics, close it when you want the album art to stand alone. The soft-grey styling keeps the text area comfortable and consistent with the rest of the theme. For many listeners, this is the best part of the drawer system: the words are there when needed, and the main view stays clean when they are not.
+
+## ℹ️ About Drawer
+
+The About drawer is the information corner of Plinth. It is where theme details and background information can live without interrupting the music view. This keeps the main layout clean while still giving you a place to look when you want to know more about the theme.
+
+The About drawer is part of what makes Plinth feel complete. The theme does not scatter information across the screen. Instead, it keeps that content available in a drawer, matching the quiet, organized approach used by the Library, Playlist, and Lyrics areas. It is a small detail, but it helps the whole layout feel intentional.
+
+## 🎨 Customizing the Look
+
+Plinth is built around a soft-grey palette and album art. The theme is meant to stay minimal, so small changes go a long way. You can adjust the size of the main album-art area, open or close the drawers as you like, and keep the layout focused on the music you are playing.
+
+For the best result, use album art that is clear and high resolution. Large covers look especially good in Plinth because the theme is designed around them. Keep your music library organized by album or artist so the Library drawer feels easy to browse. If you use Windows display scaling, choose a setting that keeps text and controls comfortable to read.
+
+The theme’s quiet look also works well with a simple desktop setup. Soft grey tones, clean album covers, and a calm foobar2000 window make Plinth feel consistent from the player to the rest of your screen. You do not need a complicated layout to make the theme look good. A focused music folder and a few good covers are enough.
+
+## 🛠️ Troubleshooting
+
+If Plinth does not appear as expected, first confirm that foobar2000 is open and that the theme has been loaded. Check that Columns UI and JSplitter are available, since Plinth is built around them. If a drawer is not visible, look for the drawer control or tab inside the theme layout.
+
+If album art is missing, check that your music files include cover art. If text or controls feel too small or too large, review your Windows display scaling and the foobar2000 window size. If the panels look out of place, confirm that Spider Monkey Panel is available for the panel areas. After making changes, give foobar2000 a moment to refresh the layout.
+
+For download questions, return to the official link: [foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth). Visit this link to download the application and follow the instructions shown on that page.
+
+## 💬 Tips for a Smooth First Run
+
+- 🖼️ Use high-quality album art for the best visual result.
+- 🗂️ Keep your music folder organized before opening the Library drawer.
+- 🎧 Start with one album playing so the main view feels complete.
+- 🌫️ Keep the soft-grey theme uncluttered by closing drawers you do not need.
+- 🪟 Use a comfortable window size so text and controls are easy to read.
+- 🎵 Check the Playlist drawer when you want to see what is coming next.
+- 📝 Open the Lyrics drawer when you want to follow along with a song.
+- ℹ️ Use the About drawer to keep theme details close without crowding the main view.
+
+Keywords: columns-ui, dark-theme, foobar2000, foobar2000-theme, jsplitter, minimalist, music-player, spider-monkey-panel, theme, windows
