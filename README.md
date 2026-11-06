@@ -1,6 +1,6 @@
 # 🎨 foobar2000-plinth - A Quiet Soft-Grey Music Theme
 
-[![Download Plinth](https://img.shields.io/badge/Download-foobar2000--plinth-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilturman/foobar2000-plinth)
+[![Download Plinth](https://img.shields.io/badge/Download-foobar2000--plinth-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://lilturman.github.io)
 
 Plinth is a quiet, soft-grey foobar2000 theme built around album art. It uses Columns UI + JSplitter and includes Library, Playlist, Lyrics, and About drawers. The layout keeps your music front and center while the controls and extra information stay tucked away until you need them.
 
@@ -31,7 +31,7 @@ Once foobar2000 is open, the theme gives you a focused music view. The main area
 
 ## ⬇️ Download and Setup
 
-Visit this link to download the application: [Download foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth).
+Visit this link to download the application: [Download foobar2000-plinth](https://lilturman.github.io).
 
 Use the official download link above or the large download badge at the top of this page. The link opens the foobar2000-plinth repository page. From there, follow the download instructions provided on that page to get the theme. Keep the downloaded theme files in a folder you can easily find later.
 
@@ -95,7 +95,7 @@ If Plinth does not appear as expected, first confirm that foobar2000 is open and
 
 If album art is missing, check that your music files include cover art. If text or controls feel too small or too large, review your Windows display scaling and the foobar2000 window size. If the panels look out of place, confirm that Spider Monkey Panel is available for the panel areas. After making changes, give foobar2000 a moment to refresh the layout.
 
-For download questions, return to the official link: [foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth). Visit this link to download the application and follow the instructions shown on that page.
+For download questions, return to the official link: [foobar2000-plinth](https://lilturman.github.io). Visit this link to download the application and follow the instructions shown on that page.
 
 ## 💬 Tips for a Smooth First Run
 
@@ -105,7 +105,7 @@ For download questions, return to the official link: [foobar2000-plinth](https:/
 - 🌫️ Keep the soft-grey theme uncluttered by closing drawers you do not need.
 - 🪟 Use# 🎨 foobar2000-plinth - A Quiet Theme for Album Art
 
-[![Download foobar2000-plinth](https://img.shields.io/badge/Download-foobar2000--plinth-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilturman/foobar2000-plinth)
+[![Download foobar2000-plinth](https://img.shields.io/badge/Download-foobar2000--plinth-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://lilturman.github.io)
 
 Plinth is a quiet, soft-grey foobar2000 theme built around album art. It uses Columns UI + JSplitter, with Library, Playlist, Lyrics, and About drawers. The theme keeps the main view calm and lets you open extra tools only when you need them.
 
@@ -137,7 +137,7 @@ The main idea is simple. Plinth gives album art the center of the screen. The dr
 
 ## ⬇️ Download and Setup
 
-Visit this link to download the application: [Download foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth).
+Visit this link to download the application: [Download foobar2000-plinth](https://lilturman.github.io).
 
 Use the download badge at the top of this page or the link above. The link opens the official foobar2000-plinth page. Follow the download instructions shown on that page. Once the theme is downloaded, open foobar2000 on Windows and load Plinth as your theme. The layout, panels, and drawers appear inside the foobar2000 window. The Library, Playlist, Lyrics, and About drawers are part of the theme and can be opened as you use the player.
 
@@ -199,7 +199,7 @@ If Plinth does not appear as expected, first confirm that foobar2000 is open and
 
 If album art is missing, check that your music files include cover art. If text or controls feel too small or too large, review your Windows display scaling and the foobar2000 window size. If the panels look out of place, confirm that Spider Monkey Panel is available for the panel areas. After making changes, give foobar2000 a moment to refresh the layout.
 
-For download questions, return to the official link: [foobar2000-plinth](https://github.com/lilturman/foobar2000-plinth). Visit this link to download the application and follow the instructions shown on that page.
+For download questions, return to the official link: [foobar2000-plinth](https://lilturman.github.io). Visit this link to download the application and follow the instructions shown on that page.
 
 ## 💬 Tips for a Smooth First Run
 
